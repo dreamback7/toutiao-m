@@ -4,7 +4,7 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
-    <router-view/>
+    <router-view />
   </div>
 </template>
 
@@ -22,7 +22,7 @@
 
   a {
     font-weight: bold;
-    color: #2c3e50;
+    color: #2c3e59;
 
     &.router-link-exact-active {
       color: #42b983;
